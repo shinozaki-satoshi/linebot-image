@@ -4,4 +4,5 @@
 You can search for images on line
 Display one at random
 
-102zszdb.png
+
+(file:///Users/shinozakisatoshi/Desktop/python_lesson/imageBot/102zszdb.png)
